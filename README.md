@@ -1,5 +1,5 @@
 # A Kernel Seedling
-Programmed a kernel module written in C to count the number of processes running on the computer.
+Programmed a kernel module written in C to count the number of processes running on the computer, as well as python unit tests.
 
 ## Building
 ```shell
